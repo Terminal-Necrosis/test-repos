@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\bin\Debug\net6.0\GuideDemoApp.exe
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\bin\Debug\net6.0\GuideDemoApp.deps.json
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\bin\Debug\net6.0\GuideDemoApp.runtimeconfig.json
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\bin\Debug\net6.0\GuideDemoApp.dll
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\bin\Debug\net6.0\GuideDemoApp.pdb
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.AssemblyInfo.cs
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.dll
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\refint\GuideDemoApp.dll
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.pdb
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\GuideDemoApp.genruntimeconfig.cache
+C:\Users\Nick\Documents\C#\Code\Test Pluralsight\GuideDemoApp\obj\Debug\net6.0\ref\GuideDemoApp.dll
